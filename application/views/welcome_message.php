@@ -13,7 +13,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Hola  mundo  vamos  por mas retos</h1>
+	<h1><?= $string ?>  vamos  por mas retos</h1>
 </div>
 
 </body>
