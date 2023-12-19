@@ -1,5 +1,5 @@
 <?= 
-form_open("/codigoprueba/recibirdatos");
+form_open("/cursos/recibirDatos");
  ?>
 <?php
 $nombre = array(
